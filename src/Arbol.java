@@ -38,7 +38,7 @@ public class Arbol {
             }
         }
     }
-    
+
     public void inOrden(Nodo raiz){
         if(raiz != null){
             inOrden(raiz.getIzq());
