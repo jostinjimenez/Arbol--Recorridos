@@ -62,6 +62,4 @@ public class Arbol {
             System.out.print(raiz.getValor() + " ");
         }
     }
-
-
 }
